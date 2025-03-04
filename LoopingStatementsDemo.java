@@ -1,5 +1,5 @@
 public class LoopingStatementsDemo {
-    public static void main(String[] args) {
+    public static void LoopingStatementsDemo(String[] args) {
         
         System.out.println("While Loop Output:");
         int count = 1;
